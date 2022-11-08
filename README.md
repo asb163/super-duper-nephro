@@ -10,7 +10,7 @@ Racial and Ethnic Disparities in the Timeliness of Nephrology Care for Patients 
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
 - Study start date: **July 13, 2022**
 - Study end date: **-**
-- Protocol: **Racial and Ethnic Disparities in the Timeliness of Nephrology Care for Patients with Chronic Kidney Disease**
+- Protocol: - (link)
 - Publications: **-**
 - Results explorer: **-**
 
