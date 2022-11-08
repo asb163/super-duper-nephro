@@ -3,8 +3,8 @@ Racial and Ethnic Disparities in the Timeliness of Nephrology Care for Patients 
 
 <img src="https://img.shields.io/badge/Study%20Status-Started%20-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **-**
-- Study type: **Retrospective analysis**
+- Analytics use case(s): **Population-Level-Estimation**
+- Study type: **Clinical Application**
 - Tags: **Chronic Kidney Disease**
 - Study lead: **Jessica Galarraga, MD, MPH**
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
