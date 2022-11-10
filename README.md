@@ -7,7 +7,7 @@ Racial and Ethnic Disparities in the Timeliness of Nephrology Care for Patients 
 - Study type: **Clinical Application**
 - Tags: **Chronic Kidney Disease**
 - Study lead: **Tom White, MD, MS, MA, CHIE**
-- Study lead forums tag: **-**
+- Study lead forums tag: **https://forums.ohdsi.org/u/thomas_white**
 - Study start date: **July 13, 2022**
 - Study end date: **-**
 - Protocol: - [IRB Protocol_NCD(timeliness to nephrology care) (1).docx](https://github.com/asb163/super-duper-nephro/files/9983172/IRB.Protocol_NCD.timeliness.to.nephrology.care.1.docx)
